@@ -21,7 +21,7 @@ Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolv
 - 🎓 Concluí **MBA em Chief Information Officer (CIO)** pela Universidade Positivo
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
 - 💡 Apaixonado por transformar problemas de negócio em soluções tecnológicas escaláveis
-- 🌱 Sempre aprendendo: **Filament, Vue.js, arquitetura de software**
+- 🌱 Sempre aprendendo: **Livewire, React, TypeScript e arquitetura de software**
 - 🌎 Inglês intermediário (B1) — aberto a oportunidades nacionais e internacionais
 - ⚡ Perfil técnico aliado à **visão estratégica de negócio**
 
@@ -32,9 +32,13 @@ Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolv
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flux%20UI-4F46E5?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />

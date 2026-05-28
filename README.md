@@ -61,6 +61,25 @@ Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolv
 
 ---
 
+### 🏆 Destaques Profissionais
+
+<p>
+  <img src="https://img.shields.io/badge/Experiência-4%2B%20anos-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Especialidade-PHP%20%26%20Laravel-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MBA-CIO-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglês-B1-blueviolet?style=for-the-badge" />
+</p>
+
+- 💻 **+4 anos** desenvolvendo e sustentando sistemas web corporativos em **produção**
+- 🏢 Atuação contínua na evolução tecnológica de aplicações da **YOUDU** desde 2022
+- 🎓 **MBA em CIO** — perfil técnico aliado à visão estratégica de negócio
+- 🚀 Foco em **performance, escalabilidade e UX** em ambientes reais de produção
+- 🔄 Atualização constante em frameworks, arquitetura e boas práticas
+
+> 💡 A maior parte do meu trabalho está em **repositórios privados de organização**, então o gráfico de contribuições reflete apenas parte da minha atividade real.
+
+---
+
 ### 📫 Vamos conversar?
 
 Estou aberto a discutir projetos, oportunidades e parcerias na área de desenvolvimento Full Stack.

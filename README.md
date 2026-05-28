@@ -38,6 +38,7 @@ Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -57,19 +58,6 @@ Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolv
 - 🐛 **Troubleshooting**, correção de bugs e sustentação de sistemas em produção
 - 🎯 **UX/UI** aplicado a aplicações web com foco em performance e usabilidade
 - 📊 Aplicação de **boas práticas de programação** e versionamento de código
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTM71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTM71&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevTM71&theme=tokyonight" />
-</p>
 
 ---
 

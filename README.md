@@ -1,96 +1,69 @@
-<h1 align="center">Olá, eu sou o Tiago Martins 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack Web | PHP / Laravel Specialist | Curitiba, PR 🇧🇷</h3>
+# Olá, eu sou o Tiago Martins 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiago-f-martins-filho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tiagofmfilho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DevTM71&label=Visitas%20no%20perfil&color=0e75b6&style=for-the-badge" />
-</p>
+**Full Stack Web Developer | Multi Stack (PHP / Python / React) | Desenvolvimento Acelerado por IA (Claude Code)**
+
+Desenvolvedor Full Stack com mais de 4 anos de experiência em sistemas web corporativos. Atuo de forma multi-stack — PHP/Laravel e Python (Django/FastAPI) — com sólida base em arquitetura de software (DDD, Event Sourcing, microsserviços) e cultura de qualidade com TDD e testes automatizados.
+
+Desde 2026, utilizo desenvolvimento assistido por IA (Claude Code) para entregar projetos completos de ponta a ponta com a produtividade de uma equipe inteira, mantendo qualidade e segurança.
+
+📍 Curitiba, PR — Brasil
+📫 tiagofmfilho@gmail.com · [LinkedIn](https://linkedin.com/in/tiago-f-martins-filho)
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Tecnologias
 
-Desenvolvedor Full Stack Web com **mais de 4 anos de experiência** no desenvolvimento, manutenção e evolução de sistemas web corporativos responsivos para desktop e mobile.
+**Back-end**
 
-- 🔭 Atualmente trabalho na **YOUDU Brindes e Presentes** desenvolvendo soluções em PHP/Laravel
-- 🎓 Concluí **MBA em Chief Information Officer (CIO)** pela Universidade Positivo
-- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
-- 💡 Apaixonado por transformar problemas de negócio em soluções tecnológicas escaláveis
-- 🌱 Sempre aprendendo: **Livewire, React, TypeScript e arquitetura de software**
-- 🌎 Inglês intermediário (B1) — aberto a oportunidades nacionais e internacionais
-- ⚡ Perfil técnico aliado à **visão estratégica de negócio**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+**Front-end**
 
-### 🛠️ Tecnologias & Ferramentas
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flux%20UI-4F46E5?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Banco de Dados, Infra & DevOps**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 💼 O que eu faço
+**Qualidade & Arquitetura**
 
-- 🔧 **Desenvolvimento Full Stack** de aplicações web corporativas
-- 📱 Construção de **interfaces responsivas** para desktop e mobile
-- 🔌 **Integração de sistemas** e desenvolvimento de APIs REST
-- 🐛 **Troubleshooting**, correção de bugs e sustentação de sistemas em produção
-- 🎯 **UX/UI** aplicado a aplicações web com foco em performance e usabilidade
-- 📊 Aplicação de **boas práticas de programação** e versionamento de código
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-critical?style=for-the-badge&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-blueviolet?style=for-the-badge)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-orange?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microsservi%C3%A7os-informational?style=for-the-badge)
+
+**IA no Desenvolvimento**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
-### 🏆 Destaques Profissionais
+## 📊 Estatísticas
 
-<p>
-  <img src="https://img.shields.io/badge/Experiência-4%2B%20anos-0e75b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Especialidade-PHP%20%26%20Laravel-FF2D20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MBA-CIO-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inglês-B1-blueviolet?style=for-the-badge" />
-</p>
-
-- 💻 **+4 anos** desenvolvendo e sustentando sistemas web corporativos em **produção**
-- 🏢 Atuação contínua na evolução tecnológica de aplicações da **YOUDU** desde 2022
-- 🎓 **MBA em CIO** — perfil técnico aliado à visão estratégica de negócio
-- 🚀 Foco em **performance, escalabilidade e UX** em ambientes reais de produção
-- 🔄 Atualização constante em frameworks, arquitetura e boas práticas
-
-> 💡 A maior parte do meu trabalho está em **repositórios privados de organização**, então o gráfico de contribuições reflete apenas parte da minha atividade real.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevTM71&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTM71&layout=compact&hide_border=true&locale=pt-br)
 
 ---
 
-### 📫 Vamos conversar?
+## 💼 Sobre meu trabalho
 
-Estou aberto a discutir projetos, oportunidades e parcerias na área de desenvolvimento Full Stack.
-
-- 📧 **Email:** tiagofmfilho@gmail.com
-- 📞 **Telefone:** (41) 99270-7409
-- 💼 **LinkedIn:** [tiago-f-martins-filho](https://www.linkedin.com/in/tiago-f-martins-filho)
-- 📍 **Localização:** Curitiba, Paraná — Brasil
-
----
-
-<p align="center">
-  <i>"Código limpo é aquele que pode ser lido e melhorado por outro desenvolvedor que não seja o seu autor original." — Robert C. Martin</i>
-</p>
+- 🔭 Atualmente: Desenvolvedor de Software e Web na **YOUDU Brindes e Presentes**
+- 🎓 MBA em Chief Information Officer (CIO) — Universidade Positivo
+- 🌱 Sempre estudando arquitetura de software, boas práticas e novas tecnologias
+- ⚡ Fluxo de trabalho potencializado por IA: codificação, testes e refatoração acelerados com Claude Code

@@ -54,13 +54,6 @@ Desde 2026, utilizo desenvolvimento assistido por IA (Claude Code) para entregar
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevTM71&show_icons=true&theme=default&hide_border=true&locale=pt-br)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTM71&layout=compact&hide_border=true&locale=pt-br)
-
----
-
 ## 💼 Sobre meu trabalho
 
 - 🔭 Atualmente: Desenvolvedor de Software e Web na **YOUDU Brindes e Presentes**

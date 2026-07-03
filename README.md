@@ -54,17 +54,26 @@ Desde 2026, utilizo desenvolvimento assistido por IA (Claude Code) para entregar
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
+**Automação com Python**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E8B57?style=for-the-badge)
+
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### [💳 digital-wallet-api](https://github.com/DevTM71/digital-wallet-api)
-API de carteira digital em **Python/FastAPI** aplicando **DDD** e **Event Sourcing** — o estado nunca é persistido diretamente: toda mudança é um evento imutável e o saldo é reconstruído por replay. Concorrência otimista, CQRS, **33 testes** (Pytest, unitários e de integração), Docker e CI com GitHub Actions.
+API de carteira digital em **Python/FastAPI** aplicando **DDD** e **Event Sourcing** — o estado nunca é persistido diretamente: toda mudança é um evento imutável e o saldo é reconstruído por replay. Concorrência otimista, CQRS, **35 testes** (Pytest, unitários e de integração), Docker, CI com GitHub Actions e **em produção** (Render + PostgreSQL gerenciado no Neon, com monitoramento de uptime). [Swagger ao vivo](https://digital-wallet-api-kh9c.onrender.com/docs).
 
 ### [🖥️ digital-wallet-web](https://github.com/DevTM71/digital-wallet-web)
-Interface web em **Next.js + React + TypeScript + Tailwind CSS** que consome a API acima: cliente HTTP tipado espelhando o contrato do back-end, tratamento de erros de domínio na UI e **extrato em tempo real derivado do fluxo de eventos** — Event Sourcing visível ao usuário.
+Interface web em **Next.js + React + TypeScript + Tailwind CSS** que consome a API acima: cliente HTTP tipado espelhando o contrato do back-end, tratamento de erros de domínio na UI e **extrato em tempo real derivado do fluxo de eventos** — Event Sourcing visível ao usuário. **🌐 [Demo ao vivo](https://digital-wallet-portfolio.vercel.app)** (Vercel).
 
-> Ambos construídos de ponta a ponta com fluxo de desenvolvimento acelerado por IA (Claude Code), com histórico de commits granular no padrão Conventional Commits.
+### [📡 price-radar](https://github.com/DevTM71/price-radar)
+Monitor de preços com **web scraping (Selenium)** que roda sozinho todos os dias via **GitHub Actions agendado**: coleta, grava o histórico em SQLite e atualiza o gráfico de evolução com **commits automáticos do bot** — um repositório vivo. Parsing puro testado sem rede (21 testes) e práticas de scraping ético documentadas.
+
+> Todos construídos de ponta a ponta com fluxo de desenvolvimento acelerado por IA (Claude Code), com histórico de commits granular no padrão Conventional Commits.
 
 ## 🏢 Projetos Profissionais (código privado)
 
@@ -80,5 +89,6 @@ Por se tratar de código proprietário, os repositórios são privados — mas o
 
 - 🔭 Atualmente: Desenvolvedor de Software e Web na **YOUDU Brindes e Presentes**
 - 🎓 MBA em Chief Information Officer (CIO) — Universidade Positivo
+- 🤖 Automações com Python: Selenium (web scraping), PyAutoGUI e execução automatizada de programas — macOS, Linux e Windows
 - 🌱 Sempre estudando arquitetura de software, boas práticas e novas tecnologias
 - ⚡ Fluxo de trabalho potencializado por IA: codificação, testes e refatoração acelerados com Claude Code

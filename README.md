@@ -17,6 +17,8 @@ Desde 2026, utilizo desenvolvimento assistido por IA (Claude Code) para entregar
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![FluxUI](https://img.shields.io/badge/Flux_UI-0EA5E9?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -53,6 +55,26 @@ Desde 2026, utilizo desenvolvimento assistido por IA (Claude Code) para entregar
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
+
+## 🚀 Projetos em Destaque
+
+### [💳 digital-wallet-api](https://github.com/DevTM71/digital-wallet-api)
+API de carteira digital em **Python/FastAPI** aplicando **DDD** e **Event Sourcing** — o estado nunca é persistido diretamente: toda mudança é um evento imutável e o saldo é reconstruído por replay. Concorrência otimista, CQRS, **33 testes** (Pytest, unitários e de integração), Docker e CI com GitHub Actions.
+
+### [🖥️ digital-wallet-web](https://github.com/DevTM71/digital-wallet-web)
+Interface web em **Next.js + React + TypeScript + Tailwind CSS** que consome a API acima: cliente HTTP tipado espelhando o contrato do back-end, tratamento de erros de domínio na UI e **extrato em tempo real derivado do fluxo de eventos** — Event Sourcing visível ao usuário.
+
+> Ambos construídos de ponta a ponta com fluxo de desenvolvimento acelerado por IA (Claude Code), com histórico de commits granular no padrão Conventional Commits.
+
+## 🏢 Projetos Profissionais (código privado)
+
+Na [YOUDU Brindes e Presentes](https://github.com/devyoudu), onde atuo desde 2022, desenvolvo e mantenho **sistemas full stack completos e de alta complexidade** com **PHP, Laravel, Livewire e FluxUI** — aplicações corporativas em produção, com regras de negócio reais, integrações e usuários ativos no dia a dia da operação.
+
+Por se tratar de código proprietário, os repositórios são privados — mas o trabalho é verificável: **referências profissionais e carta de recomendação disponíveis mediante contato**.
+
+---
+
+
 
 ## 💼 Sobre meu trabalho
 

@@ -79,7 +79,7 @@ Monitor de preços com **web scraping (Selenium)** que roda sozinho todos os dia
 
 Na [YOUDU Brindes e Presentes](https://github.com/devyoudu), onde atuo desde 2022, desenvolvo e mantenho **sistemas full stack completos e de alta complexidade** com **PHP, Laravel, Livewire e FluxUI** — aplicações corporativas em produção, com regras de negócio reais, integrações e usuários ativos no dia a dia da operação.
 
-Por se tratar de código proprietário, os repositórios são privados — mas o trabalho é verificável: **referências profissionais e carta de recomendação disponíveis mediante contato**.
+Por se tratar de código proprietário, os repositórios são privados — mas o trabalho é verificável: **referências profissionais e/ou mediante contato**.
 
 ---
 

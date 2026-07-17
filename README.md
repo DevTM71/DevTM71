@@ -1,6 +1,6 @@
 # Olá, eu sou o Tiago Martins 👋
 
-**Full Stack Web Developer | Multi Stack (PHP / Python / React) | Desenvolvimento Assistido por IA (Claude Code)**
+**Full Stack Developer | Multi Stack PHP • Python • React | AI Assisted Development (Claude Code)**
 
 Desenvolvedor Full Stack com mais de 4 anos de experiência em sistemas web corporativos. Atuo de forma multi-stack — PHP/Laravel e Python (Django/FastAPI) — com sólida base em arquitetura de software (DDD, Event Sourcing, microsserviços) e cultura de qualidade com TDD e testes automatizados.
 
